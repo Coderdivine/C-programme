@@ -1,2 +1,2 @@
-I write all my C-programme here
+I write all my C programme/script here
 
